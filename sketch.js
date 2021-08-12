@@ -6,7 +6,7 @@ var heiref;
 function preload(){
    bg =loadImage("cityImage.png");
    balloonImage1=loadAnimation("HotAirBallon01.png");
-   balloonImage2=loadAnimation("HotAirBallon01.png","IHotAirBallon01.png",
+   balloonImage2=loadAnimation("HotAirBallon01.png","HotAirBallon01.png",
    "HotAirBallon01.png","HotAirBallon02.png","HotAirBallon02.png",
    "HotAirBallon02.png","HotAirBallon03.png","HotAirBallon03.png","HotAirBallon03.png");
   }
